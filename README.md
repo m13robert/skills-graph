@@ -1,4 +1,4 @@
-[Image of the graph]
+![Image of the graph]
 (https://imgur.com/wUpYbyp)
 
 
