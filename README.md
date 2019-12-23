@@ -1,4 +1,6 @@
 The Graph
+
+
 ![Image of the graph](https://imgur.com/wUpYbyp)
 
 
