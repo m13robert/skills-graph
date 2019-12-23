@@ -1,7 +1,7 @@
 The Graph
 
 
-![Image of the graph](https://imgur.com/wUpYbyp)
+![Image of the graph](https://i.imgur.com/wUpYbyp.png)
 
 
 
